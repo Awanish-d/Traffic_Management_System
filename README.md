@@ -66,24 +66,8 @@ HTDOCS/
 - **index.php** → Main entry file of the application.
 - **logout.php** → Handles session termination.
 
----
 
-### Important
+## 🔗 Project Links
 
-Isko README me “Project Structure” section ke neeche add karo.  
-Alag README banana immature lagta hai unless documentation heavy project ho.
-
----
-
-Tumhara structure actually clean hai.  
-Beginner project ke hisaab se impressive hai.
-
-Bas ek cheez future ke liye:
-
-`HTDOCS` folder ka naam README me mat dikhao agar ye sirf local XAMPP structure hai.  
-Repo me ideally `traffic_management` root hona chahiye.
-
-But abhi ke liye ye fine hai.
-
-Commit karo. Phir refresh karo.  
-Ab tumhara repo “student project” se “presentable academic project” category me aa raha hai.
+- 🌐 Live Demo: http://tmsawanish.infinityfreeapp.com
+- 💻 GitHub Repository: https://github.com/Awanish-d/Traffic_Management_System
